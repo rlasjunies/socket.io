@@ -1,0 +1,2 @@
+C:\Dev\socket.io\socketio1\socketio1\obj\Debug\socketio1.njsprojResolveAssemblyReference.cache
+C:\Dev\socket.io\socketio1\socketio1\bin\Microsoft.NodejsTools.WebRole.dll
